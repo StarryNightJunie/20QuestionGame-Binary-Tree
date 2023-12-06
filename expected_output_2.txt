@@ -1,0 +1,23 @@
+Welcome to the game of 20 Questions!
+Shall I recall our previous games? yes please
+What is the file name? question2.txt
+
+Think of an item, and I will guess it.
+
+Is it an animal? no
+Does it have wheels? nope
+Is it nice? nah
+Would your object happen to be teacher? yes
+I win!
+Challenge me again? y
+
+Is it an animal? yes
+Can it fly? YES
+Would your object happen to be bird? yep
+I win!
+Challenge me again? n
+
+Games played: 2
+I won: 2
+Shall I remember these games? y
+What is the file name? out.txt

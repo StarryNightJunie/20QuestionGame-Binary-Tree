@@ -1,0 +1,27 @@
+Welcome to the game of 20 Questions!
+Shall I recall our previous games? No
+
+Think of an item, and I will guess it.
+
+Would your object happen to be computer? N
+I lose. What is your object? cat
+Type a yes/no question to distinguish your item from computer: Is it an animal?
+And what is the answer for your object? Yes
+Challenge me again? y
+
+Is it an animal? y
+Would your object happen to be cat? NO
+I lose. What is your object? Dog
+Type a yes/no question to distinguish your item from cat: Does it meow?
+And what is the answer for your object? no
+Challenge me again? y
+
+Is it an animal? yes
+Does it meow? No
+Would your object happen to be Dog? YES
+I win!
+Challenge me again? nope
+
+Games played: 3
+I won: 1
+Shall I remember these games? no
